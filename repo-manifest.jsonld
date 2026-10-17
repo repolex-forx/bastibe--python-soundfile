@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/bastibe/python-soundfile/commit/e0f2f49f1c244919a576beb4e27fc860f706e822",
       "git:hexsha": "e0f2f49f1c244919a576beb4e27fc860f706e822",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T23:57:31.053380+00:00"
     },
     {
       "@id": "https://repolex.ai/r/bastibe/python-soundfile/commit/033e11b163b9d3a85bc53a37e58066d31feda31f",
